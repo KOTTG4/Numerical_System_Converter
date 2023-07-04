@@ -30,12 +30,12 @@ English:
 
 German (Deutsch):
 
--Zahleneingabe: Benutzer können die Zahl, die sie konvertieren möchten, in das Eingabefeld eingeben. Das Eingabefeld unterstützt numerische Werte.
--Numeral System Auswahl: Ein Dropdown-Menü ermöglicht es Benutzern, das gewünschte Zahlensystem für die Konvertierung auszuwählen. Die verfügbaren Optionen umfassen das Dezimalsystem, das Hexadezimalsystem, das Oktalsystem und das Binärsystem.
--Konvertierungsberechnung: Die Website verwendet PHP-Code, um die Formularübermittlung zu verarbeiten und die eingegebene Zahl zu verarbeiten. Basierend auf dem ausgewählten Zahlensystem werden die entsprechenden Konvertierungsfunktionen angewendet, um die Zahl umzuwandeln.
--Konvertierungsergebnisse: Die konvertierten Ergebnisse werden in schreibgeschützten Eingabefeldern angezeigt und bieten den Benutzern die Möglichkeit, die konvertierte Zahl in verschiedenen Zahlensystemen gleichzeitig zu sehen. Die Website aktualisiert die Ergebnisse dynamisch, wenn der Benutzer die Eingabe ändert oder ein anderes Zahlensystem auswählt.
--Fehlerbehandlung: Der Code enthält Fehlerbehandlung, um sicherzustellen, dass gültige Eingaben bereitgestellt werden und die Konvertierungen korrekt sind. Wenn eine ungültige Eingabe erkannt wird, werden entsprechende Fehlermeldungen angezeigt, die auf eine fehlerhafte Eingabe hinweisen.
--Header- und Footer-Bereiche: Die Website enthält Header- und Footer-Bereiche, die separate PHP-Dateien sind. Diese Bereiche können Markenelemente, Navigationsmenüs und zusätzliche Informationen zur Website enthalten.
+- Zahleneingabe: Benutzer können die Zahl, die sie konvertieren möchten, in das Eingabefeld eingeben. Das Eingabefeld unterstützt numerische Werte.
+- Numeral System Auswahl: Ein Dropdown-Menü ermöglicht es Benutzern, das gewünschte Zahlensystem für die Konvertierung auszuwählen. Die verfügbaren Optionen umfassen das Dezimalsystem, das Hexadezimalsystem, das Oktalsystem und das Binärsystem.
+- Konvertierungsberechnung: Die Website verwendet PHP-Code, um die Formularübermittlung zu verarbeiten und die eingegebene Zahl zu verarbeiten. Basierend auf dem ausgewählten Zahlensystem werden die entsprechenden Konvertierungsfunktionen angewendet, um die Zahl umzuwandeln.
+- Konvertierungsergebnisse: Die konvertierten Ergebnisse werden in schreibgeschützten Eingabefeldern angezeigt und bieten den Benutzern die Möglichkeit, die konvertierte Zahl in verschiedenen Zahlensystemen gleichzeitig zu sehen. Die Website aktualisiert die Ergebnisse dynamisch, wenn der Benutzer die Eingabe ändert oder ein anderes Zahlensystem auswählt.
+- Fehlerbehandlung: Der Code enthält Fehlerbehandlung, um sicherzustellen, dass gültige Eingaben bereitgestellt werden und die Konvertierungen korrekt sind. Wenn eine ungültige Eingabe erkannt wird, werden entsprechende Fehlermeldungen angezeigt, die auf eine fehlerhafte Eingabe hinweisen.
+- Header- und Footer-Bereiche: Die Website enthält Header- und Footer-Bereiche, die separate PHP-Dateien sind. Diese Bereiche können Markenelemente, Navigationsmenüs und zusätzliche Informationen zur Website enthalten.
 
 ## Technologies Used
 
