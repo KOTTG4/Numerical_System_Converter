@@ -23,7 +23,7 @@ Die Numeral System Converter Website ist ein webbasiertes Tool, mit dem Benutzer
 English:
 
 - Header Section: This section includes PHP code to include the header file, which may contain the website's logo and navigation elements.
-- - Navigation Bar Section: The navigation bar is displayed at the top of the page and allows users to navigate different sections of the website. It includes links to different numeral systems and a link to the main calculator page.
+- Navigation Bar Section: The navigation bar is displayed at the top of the page and allows users to navigate different sections of the website. It includes links to different numeral systems and a link to the main calculator page.
 - Code Section: This section contains PHP code responsible for handling the form submission and performing the numeral system conversions. It initializes variables, retrieves the entered number and selected numeral system, and performs the conversions based on the selected system. It also includes error handling if the input is invalid.
 - Home Section: This section represents the main content area of the website. It includes a form where users can enter a number and select the numeral system. The form data is submitted to the same page for processing. The section also displays the converted results in different numeral systems using read-only input fields.
 - Footer Section: Similar to the header section, this section includes PHP code to include the footer file, which may contain additional information or links related to the website.
