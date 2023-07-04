@@ -1,0 +1,149 @@
+body {
+	background-color: #708090;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden; 
+  margin: 0;
+  padding: 0;
+  border-radius: 10px;
+  position: sticky;
+  top: 0;
+}
+
+.topnav a {
+  float: left;
+  color: #87CEEB;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family:Comic Sans MS;
+}
+
+.topnav a:hover {
+  background-color: #796AD2;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #6A5ACD;
+  color: white;
+}
+
+section{
+  padding:5rem 10%;
+  background-color: #708090;
+}
+
+.Home{
+  align-items: center;
+  background-color: #708090;
+}
+.Home .content{
+  padding:70px;
+  border-radius: 25px;
+  background-color: #474747;
+  display: block;
+}
+.Home .content h3{
+  font-size: 48px;
+  font-family:Comic Sans MS ;
+  color: #796AD2;
+  line-height: 0,5;
+}
+.Home .content h2{
+  font-size: 30px;
+  font-family:Comic Sans MS ;
+  color: #796AD2;
+  line-height: 0,5;
+}
+
+.Home .content p{
+  font-size: 18px;
+  font-family:Comic Sans MS ;
+  color: #796AD2;
+  line-height: 1px;
+}
+.btn{
+background-color: #87CEEB;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-family:Comic Sans MS ;
+}
+
+.selectdiv {
+  position: static;
+  float: left;
+  min-width: 50px;
+  margin: 1px 0%;
+}
+
+select::-ms-expand {
+display: none;
+background-color: #6A5ACD;
+}
+
+.selectdiv:after {
+  content: '<>';
+  font: 17px "Consolas", monospace;
+  color: #6A5ACD;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  right: 11px;
+  top: 18px;
+  padding: 0 0 2px;
+  border-bottom: 1px solid #999;
+  position: absolute;
+  pointer-events: none;
+}
+
+.selectdiv select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  height: 50px;
+  float: right;
+  margin: 5px 0px;
+  padding: 0px 24px;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #6A5ACD;
+  background-color: #ffffff;
+  background-image: none;
+  border: 1px solid #cccccc;
+  -ms-word-break: normal;
+  word-break: normal;
+}
+.footer
+{
+  background-color:#333;
+  padding:45px 0 20px;
+  font-size:17px;
+  line-height:24px;
+  color:#796AD2	;
+}
+.footer h6
+{
+  color:#4682B4;
+  font-size:26px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+
+
